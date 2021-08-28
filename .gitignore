@@ -1,2 +1,26 @@
 
 vuex-shopping-cart/node_modules
+
+vuex-shopping-cart/.DS_Store
+vuex-shopping-cart/node_modules
+vuex-shopping-cart/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+vuex-shopping-cart/npm-debug.log*
+vuex-shopping-cart/yarn-debug.log*
+vuex-shopping-cart/yarn-error.log*
+vuex-shopping-cart/pnpm-debug.log*
+
+# Editor directories and files
+vuex-shopping-cart/.idea
+vuex-shopping-cart/.vscode
+vuex-shopping-cart/*.suo
+vuex-shopping-cart/*.ntvs*
+vuex-shopping-cart/*.njsproj
+vuex-shopping-cart/*.sln
+vuex-shopping-cart/*.sw?
